@@ -6,7 +6,12 @@ This is a simple mesh editing and mesh generation software developed by chengeng
 # Where to get this solfware?
 
 Currently, only windows clients are available.
-Download this.
 
+Download, and Double-click the executable file.
+
+Currently supported functions include file import of various formats (stl ply smesh poly), Boolean operation of 2D surface manifold, and grid generation. Export 3D mesh in (.ele) format.
 
 # How to use?
+
+
+
